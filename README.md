@@ -46,10 +46,6 @@
 
 Over the past 10 years, as a Frontend Developer, I have developed, launched and customized highly responsive, easy to use, user-friendly websites and applications using advanced technologies such as React, Angular and Vue. </br>
 
-On the other hand, I am an experienced, detailed-oriented, back-end web developer. </br>
-
-I have the ability to create back-end code that will add utility to everything the front-end designer creates. </br>
-
 ### My highlight skills:
 
 ✔️ Very strong knowledge of modern Frontend frameworks such as React, Angular, Vue, etc. </br>
