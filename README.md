@@ -38,7 +38,7 @@
     </tr>
 </table>
 
-<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">What Can I Do</h2>
+<!--<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">What Can I Do</h2>
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/MiracleTalent0123/MiracleTalent0123/blob/main/code.gif?raw=true" width="400" />
@@ -64,4 +64,4 @@ I have the ability to create back-end code that will add utility to everything t
 ✔️ Worked in large development teams as a team leader </br>
 
 </div>
-
+-->
