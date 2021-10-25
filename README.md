@@ -52,10 +52,10 @@ I have the ability to create back-end code that will add utility to everything t
 ### My highlight skills:
 
 ✔️ Very strong knowledge of modern Frontend frameworks such as React, Angular, Vue, etc. </br>
-✔️ Developed front-end for a wide range of fully responsive webpages using Modern UI libraries
-✔️ Material UI, MDBReact, Ant Design, React Bootstrap, Angular Material Design, ng-bootstrap, Vuetify, etc. 
+✔️ Developed front-end for a wide range of fully responsive webpages using Modern UI libraries</br>
+✔️ Material UI, MDBReact, Ant Design, React Bootstrap, Angular Material Design, ng-bootstrap, Vuetify, etc. </br>
 ✔️ Modern CSS frameworks such as Tailwind CSS, Bootstrap, Bulma CSS </br>
-✔️ Created back-end api that will add utility to everything the front-end designer creates 
+✔️ Created back-end api that will add utility to everything the front-end designer creates </br>
 ✔️ Using Backend frameworks such as Node, Laravel, CodeIgniter, Django, etc. </br>
 ✔️ Worked with databases such as MySQL, Sqlite, MongoDB and so on </br>
 ✔️ Delivered high quality and user rich solutions on time </br>
