@@ -36,7 +36,7 @@
     </tr>
 </table>
 
-### What Can I Do
+<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">What Can I Do</h2>
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/MiracleTalent0123/MiracleTalent0123/blob/main/code.gif?raw=true" width="400" />
