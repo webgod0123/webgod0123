@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 50px">Hi, I am Miracle Talent</h1>
+<p style="font-size: 100px; text-align: center;">Hi, I am Miracle Talent</p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=MiracleTalent0123.MiracleTalent0123" />
 <img align="right" src="https://img.shields.io/github/followers/MiracleTalent0123?label=Follow&style=social" />
 <h1 align="center"></h1>
