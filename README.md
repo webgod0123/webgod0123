@@ -45,7 +45,7 @@
   
 ### As an enthusiastic and creative developer with hands-on skills in a wide range of web applications
 
-Over the past 10 years, as a Frontend Developer, I have developed, launched and customized highly responsive, easy to use, user-friendly websites and applications using advanced technologies such as React, Angular and Vue. </br>
+Over the past 8 years, as a Frontend Developer, I have developed, launched and customized highly responsive, easy to use, user-friendly websites and applications using advanced technologies such as React, Angular and Vue. </br>
 
 ### My highlight skills:
 
