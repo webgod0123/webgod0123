@@ -12,7 +12,7 @@
 <table>
     <tr>
         <td><img src="https://img.icons8.com/officel/2x/react.png" width="100" alt="React.js"></td>
-        <td><img src="https://icons8.com/icon/71257/angularjs" width="100" alt="Angular.js"></td>
+        <td><img src="https://img.icons8.com/color/2x/angularjs.png" width="100" alt="Angular.js"></td>
         <td><img src="https://img.icons8.com/color/2x/vue-js.png" width="100" alt="Vue.js"></td>
         <td><img src="https://img.icons8.com/nolan/2x/javascript.png" width="100" alt="JavaScript"></td>
         <td><img src="https://img.icons8.com/color/2x/nodejs.png" width="100" alt="node.js"></td>
