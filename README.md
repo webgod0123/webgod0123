@@ -45,13 +45,13 @@
 <div>
 <img align="right" alt="GIF" src="https://github.com/MiracleTalent0123/MiracleTalent0123/blob/main/code.gif?raw=true" width="400" />
     
-### As an enthusiastic and creative developer with hands-on skills in a wide range of web applications, I am specialized in Frontend development.
+### As an enthusiastic and creative developer with hands-on skills in a wide range of web applications
 
 Over the past 10 years, as a Frontend Developer, I have developed, launched and customized highly responsive, easy to use, user-friendly websites and applications using advanced technologies such as React, Angular and Vue.
 
 On the other hand, I am an experienced, detailed-oriented, back-end web developer.
 
-My highlight skills:
+### My highlight skills:
 
 -Very strong knowledge of modern Frontend frameworks such as React, Angular, Vue, etc.
 -Developed front-end for a wide range of fully responsive webpages using Modern UI libraries such as Material UI, MDBReact, Ant Design, React Bootstrap, Angular Material Design, ng-bootstrap, Vuetify, etc. and modern CSS frameworks such as Tailwind CSS, Bootstrap, Bulma CSS
