@@ -47,18 +47,20 @@
     
 ### As an enthusiastic and creative developer with hands-on skills in a wide range of web applications
 
-Over the past 10 years, as a Frontend Developer, I have developed, launched and customized highly responsive, easy to use, user-friendly websites and applications using advanced technologies such as React, Angular and Vue.
+Over the past 10 years, as a Frontend Developer, I have developed, launched and customized highly responsive, easy to use, user-friendly websites and applications using advanced technologies such as React, Angular and Vue. </br>
 
-On the other hand, I am an experienced, detailed-oriented, back-end web developer.
+On the other hand, I am an experienced, detailed-oriented, back-end web developer. </br>
+
+I have the ability to create back-end code that will add utility to everything the front-end designer creates. </br>
 
 ### My highlight skills:
 
--Very strong knowledge of modern Frontend frameworks such as React, Angular, Vue, etc.
--Developed front-end for a wide range of fully responsive webpages using Modern UI libraries such as Material UI, MDBReact, Ant Design, React Bootstrap, Angular Material Design, ng-bootstrap, Vuetify, etc. and modern CSS frameworks such as Tailwind CSS, Bootstrap, Bulma CSS
--Created back-end api that will add utility to everything the front-end designer creates using Backend frameworks such as Node, Laravel, CodeIgniter, Django, etc.
--Worked with databases such as MySQL, Sqlite, MongoDB and so on
--Delivered high quality and user rich solutions on time
--Worked in large development teams as a team leader
+-Very strong knowledge of modern Frontend frameworks such as React, Angular, Vue, etc. </br>
+-Developed front-end for a wide range of fully responsive webpages using Modern UI libraries such as Material UI, MDBReact, Ant Design, React Bootstrap, Angular Material Design, ng-bootstrap, Vuetify, etc. and modern CSS frameworks such as Tailwind CSS, Bootstrap, Bulma CSS </br>
+-Created back-end api that will add utility to everything the front-end designer creates using Backend frameworks such as Node, Laravel, CodeIgniter, Django, etc. </br>
+-Worked with databases such as MySQL, Sqlite, MongoDB and so on </br>
+-Delivered high quality and user rich solutions on time </br>
+-Worked in large development teams as a team leader </br>
 
 </div>
 
