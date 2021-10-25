@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I am Miracle Talent</h1>
-<h3 align="center">A Senior Frontend Web Developer</h3>
+<p align="center">
+  <a href="https://github.com/starbinna"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Expert;React%20Master;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=MiracleTalent0123.MiracleTalent0123" />
 <img align="right" src="https://img.shields.io/github/followers/MiracleTalent0123?label=Follow&style=social" />
 <h1 align="center"></h1>
@@ -40,8 +42,6 @@
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">About Me</h2>
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/MiracleTalent0123/MiracleTalent0123/blob/main/code.gif?raw=true" width="400" />
-    
 ### As an enthusiastic and creative developer with hands-on skills in a wide range of web applications
 
 Over the past 10 years, as a Frontend Developer, I have developed, launched and customized highly responsive, easy to use, user-friendly websites and applications using advanced technologies such as React, Angular and Vue. </br>
