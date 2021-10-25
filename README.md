@@ -1,4 +1,4 @@
-<p></p>
+<p align="center">Hi, I am Miracle Talent</p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=MiracleTalent0123.MiracleTalent0123" />
 <img align="right" src="https://img.shields.io/github/followers/MiracleTalent0123?label=Follow&style=social" />
 <h1 align="center"></h1>
@@ -8,7 +8,7 @@
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiracleTalent0123&layout=compact&theme=merko&count_private=true" />
 <img height="150" />
 
-<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My 𝐒𝐤𝐢𝐥𝐥𝐬</h2>
+<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Skills</h2>
 <table>
     <tr>
         <td><img src="https://img.icons8.com/officel/2x/react.png" width="100" alt="React.js"></td>
