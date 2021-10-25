@@ -40,25 +40,14 @@
     </tr>
 </table>
 
-## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
+## About me
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/MiracleTalent0123/MiracleTalent0123/blob/main/code.gif?raw=true" width="400" />
     
-### Full-stack web development(MERN(Mongodb, express, React, Node js))
-<br />
+### Senior Frontend Development - React, Next.js, Angular, Vue, Nuxt.js, Tailwind CSS, Bootstrap 5
 
-### c# and c++ desktop app
-<br />
-    
-### Artificial Intelligence Python
-<br />
-
-### Data Science Python
-<br />
-
-### Unity(c#, Game Development)
-<br />
+### 
 
 </div>
 
