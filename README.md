@@ -38,7 +38,7 @@
     </tr>
 </table>
 
-<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">About Me</h2>
+<!-- <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">About Me</h2>
 
 <div>
   
@@ -56,7 +56,7 @@ Over the past 5 years, as a Frontend Developer, I have developed, launched and c
 ✔️ Using Backend frameworks such as Node, Laravel, CodeIgniter, Django, etc. </br>
 ✔️ Worked with databases such as MySQL, Sqlite, MongoDB and so on </br>
 ✔️ Delivered high quality and user rich solutions on time </br>
-✔️ Worked in large development teams as a team leader </br>
+✔️ Worked in large development teams as a team leader </br> -->
 
 </div>
 
