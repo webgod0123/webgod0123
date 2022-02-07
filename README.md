@@ -44,7 +44,7 @@
   
 <!-- ### Enthusiastic and creative developer with hands-on skills in a wide range of web applications -->
 
-<!-- Over the past 5 years, as a Frontend Developer, I have developed, launched and customized highly responsive, easy to use, user-friendly websites and applications using advanced technologies such as React, Angular and Vue. </br>
+<!-- Over the past 5 years, as a Frontend Developer, I have developed, launched and customized highly responsive, easy to use, user-friendly websites and applications using advanced technologies such as React, Angular and Vue. </br> -->
 
 ### My highlight skills:
 
@@ -56,7 +56,7 @@
 ✔️ Using Backend frameworks such as Node, Laravel, CodeIgniter, Django, etc. </br>
 ✔️ Worked with databases such as MySQL, Sqlite, MongoDB and so on </br>
 ✔️ Delivered high quality and user rich solutions on time </br>
-✔️ Worked in large development teams as a team leader </br> -->
+✔️ Worked in large development teams as a team leader </br>
 
 </div>
 
