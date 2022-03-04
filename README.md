@@ -1,6 +1,6 @@
-<p align="center">
-<!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Expert;React%20Master;6%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22"> -->
-</p>
+### Enthusiastic and creative developer with hands-on skills in a wide range of web applications
+
+![](./profile-3d-contrib/profile-green-animate.svg)
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=MiracleTalent0123.MiracleTalent0123" />
 <img align="right" src="https://img.shields.io/github/followers/MiracleTalent0123?label=Follow&style=social" />
 <h1 align="center"></h1>
@@ -42,7 +42,6 @@
 
 <div> -->
   
-<!-- ### Enthusiastic and creative developer with hands-on skills in a wide range of web applications -->
 
 <!-- Over the past 5 years, as a Frontend Developer, I have developed, launched and customized highly responsive, easy to use, user-friendly websites and applications using advanced technologies such as React, Angular and Vue. </br> -->
 
