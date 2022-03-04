@@ -59,4 +59,4 @@
 
 </div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MiracleTalent0123&bg_color=144a19&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MiracleTalent0123&bg_color=144a19&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false) -->
