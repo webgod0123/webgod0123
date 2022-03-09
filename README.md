@@ -10,7 +10,7 @@
 <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiracleTalent0123&layout=compact&theme=chartreuse-dark&langs_count=8" />
 <img height="150" />
 </br>
-<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
+<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Skills</h2>
 <table>
     <tr>
         <td><img src="https://img.icons8.com/officel/2x/react.png" width="100" alt="React.js"></td>
