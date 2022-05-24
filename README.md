@@ -1,6 +1,6 @@
 ### 🔥 Enthusiastic and creative developer with hands-on skills in a wide range of web applications
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=MiracleTalent0123.MiracleTalent0123" />
 <img align="right" src="https://img.shields.io/github/followers/MiracleTalent0123?label=Follow&style=social" />
 <h1 align="center"></h1>
