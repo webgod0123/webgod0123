@@ -6,8 +6,8 @@
 <h1 align="center"></h1>
 <!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=webgod0123&theme=github&count_private=true" /> -->
 <h1 align="center"></h1>
-<img align="left" alt="status github, commits, etc..." height="200px" src="https://github-readme-stats.vercel.app/api?username=webgod0123&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8" /> 
-<img align="right" alt="most used languages" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webgod0123&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
+<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=webgod0123&count_private=true&show_icons=true&theme=chartreuse-dark" />
+<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webgod0123&layout=compact&theme=chartreuse-dark&langs_count=8" />
 <img height="150" />
 </br>
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Skills</h2>
