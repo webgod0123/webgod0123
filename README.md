@@ -1,5 +1,5 @@
 ### 🔥 Enthusiastic and creative developer with hands-on skills in a wide range of web applications
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&center=true&vCenter=true&random=false&width=800&height=80&lines=Senior+Full+Stack+Developer;8+%2B+years+of+hands-on+experience;Passionate+and+fast+learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&center=true&vCenter=true&random=false&width=1000&height=80&lines=Senior+Full+Stack+Developer;8%2B+years+of+hands-on+experience;Passionate+and+fast+learner)](https://git.io/typing-svg)
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=webgod0123.webgod0123" />
 <img align="right" src="https://img.shields.io/github/followers/webgod0123?label=Follow&style=social" />
