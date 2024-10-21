@@ -5,10 +5,10 @@
 <img align="right" src="https://img.shields.io/github/followers/webgod0123?label=Follow&style=social" />
 <h1 align="center"></h1>
 <!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=webgod0123&theme=github&count_private=true" /> -->
-<h1 align="center"></h1>
+<!-- <h1 align="center"></h1>
 <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=webgod0123&count_private=true&show_icons=true&theme=chartreuse-dark" />
 <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webgod0123&layout=compact&theme=chartreuse-dark&langs_count=8" />
-<img height="150" />
+<img height="150" /> -->
 </br>
 </br>
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Skills</h2>
